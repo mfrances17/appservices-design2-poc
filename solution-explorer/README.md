@@ -1,12 +1,10 @@
-# Keycloak Admin Console UX Redesign
+# Solution Explorer UX Redesign
 
-> More design is coming...
-
-This website is used to display the redesign work of the Keycloak Admin Console and collect feedback.
+This website is used to display the redesign work of the Solution Explorer user menu and collect feedback.
 
 ### What you can do here
 
-- Access the latest wireframes and design conventions of Keycloak Admin Console.
+- Access the latest wireframes and design conventions of Solution Explorer user menus.
 - Contribute valuable suggestions in the comments zone.
 
 ### Why you are so important
@@ -16,4 +14,4 @@ This website is used to display the redesign work of the Keycloak Admin Console 
 
 ### Chat with us
 
-If you want to talk more, reach out to us via [Zulipchat](https://keycloak.zulipchat.com)
+If you want to talk more, reach out to us via (TBD)
