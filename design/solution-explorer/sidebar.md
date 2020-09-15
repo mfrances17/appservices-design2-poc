@@ -1,6 +1,6 @@
 * [**Home**](/)
 
-* [**Clients**](/user-menus/overview.md)
+* [**User menus**](/user-menus/overview.md)
 
-  * [List](/user-menus/dev-user-menu.md)
-  * [Create/Import](/user-menus/admin-user-menu.md)
+  * [Developer user menu](/user-menus/dev-user-menu.md)
+  * [Administrator user menu](/user-menus/admin-user-menu.md)
